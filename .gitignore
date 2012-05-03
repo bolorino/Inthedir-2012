@@ -2,3 +2,4 @@
 cache
 compile
 tmp
+*.sublime-*
