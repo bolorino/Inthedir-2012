@@ -8,7 +8,7 @@
  * @category Controller
  * @author Jose Bolorino
  */
-class Companies extends Public_Controller 
+class Companies extends My_Controller 
 {
     
     public $ion_auth;
