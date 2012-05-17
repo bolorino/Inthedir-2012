@@ -40,7 +40,7 @@ class Companies extends My_Controller
      * @param string $letter 
      * @return void
      */
-    public function view($cat='All', $letter=FALSE)companies
+    public function view($cat='All', $letter=FALSE)
     {
         /*
          * @todo: Get records by Country
