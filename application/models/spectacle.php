@@ -357,9 +357,7 @@ class Spectacle extends Doctrine_Record
         {
             return TRUE;
         }
-        else
-        {
-            return FALSE;
-        }
+        
+        return FALSE;
     }
 }
