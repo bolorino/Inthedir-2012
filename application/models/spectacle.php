@@ -273,7 +273,7 @@ class Spectacle extends Doctrine_Record
     
     public function get_by_normalized_name($name)
     {
-        $spectacle = Doctrine::getTable('Spectacle')->findBy('normalized_name', $name, Doctrine_Core::HYDRATE_ARRAY);
+        $spectacle = Doctrine::getTable('Spectacle')->findOneBy('normalized_name', $name);
         
         if ( ! $spectacle)
         {
