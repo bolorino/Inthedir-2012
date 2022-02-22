@@ -3,6 +3,8 @@ Inthedir (International Theatre Directory)
 
 Description
 ------------------
+**This project is archived. Please, take a look at https://github.com/bolorino/inthedir**
+
 A platform to manage theatre companies, shows, performances and Performing Arts programs, including:
 
 * A Theatre Market that allows companies to publish offers, and to Arts Managers finding opportunities to hire shows.
